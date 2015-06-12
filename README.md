@@ -1,5 +1,4 @@
-   
-		  Taxonomic identification of unknown OTUs through OTU co-abundance networks
+Taxonomic identification of unknown OTUs through OTU co-abundance networks
 ========================================================
 
 
